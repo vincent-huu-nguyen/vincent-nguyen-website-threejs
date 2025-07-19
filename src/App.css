@@ -5,6 +5,13 @@
   text-align: center;
 }
 
+canvas {
+  display: block;
+  width: 100% !important;
+  height: 100% !important;
+}
+
+
 .logo {
   height: 6em;
   padding: 1.5em;
